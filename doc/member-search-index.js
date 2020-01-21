@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"com.hemebiotech.analytics.classe","c":"CounterSymptomNumberFromFile","l":"CounterSymptomNumberFromFile()","url":"%3Cinit%3E()"},{"p":"com.hemebiotech.analytics.classe","c":"CounterSymptomNumberFromFile","l":"getSymptomsAndTheirNumberOfOccurrence(List<String>)","url":"getSymptomsAndTheirNumberOfOccurrence(java.util.List)"}]
